@@ -2,6 +2,7 @@ h1 {
     color: rgb(37, 3, 91);
     justify-content: center;
     text-align: center;
+    font-family: 'Courier New',
 }
 
 label {
