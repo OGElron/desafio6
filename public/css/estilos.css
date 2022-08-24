@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(37, 3, 91);
+    justify-content: center;
+    text-align: center;
+}
+
+label {
+    font-weight: bolder;
+    font-style: normal;
+}
+
+.jumbotron {
+    min-height: 100vh;
+}
+
+.autor { 
+    color: blue;
+    font-weight: bold;
+}
+
+.fecha {
+    color: brown;
+}
+
+.mensaje {
+    color: green;
+    font-family: italic;
+}
